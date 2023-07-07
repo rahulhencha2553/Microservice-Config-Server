@@ -8,3 +8,6 @@ eureka:
     prefer-ip-address: true
 rahul:
   ravi: friend
+spring:
+ application:
+  name: config data
